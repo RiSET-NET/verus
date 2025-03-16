@@ -1,4 +1,0 @@
-POOL=pool.verus.io
-PORT=9998
-WALLET=RLiHUxS777oDkRDi8o1Sh6DRGw2ZqEX8FE
-THREADS=2  # Adjust based on your CPU
