@@ -7,10 +7,10 @@
             "disabled": 1
         }],
 
-    "user": "RLiHUxS777oDkRDi8o1Sh6DRGw2ZqEX8FE.verus",
-    "pass": "Hybrid",
+    "user": "RLiHUxS777oDkRDi8o1Sh6DRGw2ZqEX8FE.redmi4x",
+    "pass": "Solo",
     "algo": "verus",
-    "threads": 2,
+    "threads": 1,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
