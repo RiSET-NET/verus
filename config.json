@@ -17,3 +17,4 @@
     "api-allow": "192.168.0.0/16",
     "api-bind": "0.0.0.0:4068"
 }
+./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RLiHUxS777oDkRDi8o1Sh6DRGw2ZqEX8FE.kali -p x -t 8
